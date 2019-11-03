@@ -1,4 +1,4 @@
-# Neuromorphic-Computing
+# Neuromorphic Computing
 
 Many works towards **Neurmorphic Computing** have published in devices, circuits, architecture, and algorithms. However, these works are disperse and there are not a unitive review for reaseachers in this field. The **Neurmorphic Computing** project aims to collect the works in neuromorphic/ neuro-inspired computing field to help the researchers to find the information. The information is collected from the internet and this project is made publicly available on a non-commercial basis.
 
@@ -8,6 +8,12 @@ Advisors: Huqiang Wu, Gao Bin, Jianshi Tang, He Qian
 
 Contributions: Wenqiang Zhang
 
+If you have any questions or suggestions, you can rise an issue or contact zhang_wenqiang@outlook.com.
+
+[toc]
+
+## Overview
+
 ## Device
 
 ## Circuit
@@ -16,7 +22,7 @@ Contributions: Wenqiang Zhang
 
 ### SNN chip
 
-[IBM's TrueNorth]( https://doi.org/10.1126/science.1254642):
+[IBM's TrueNorth](https://doi.org/10.1126/science.1254642):
 
 [Intel's Loihi](https://doi.org/10.1109/MM.2018.112130359):
 
@@ -27,3 +33,9 @@ Contributions: Wenqiang Zhang
 ## Architecture
 
 ## Algorithm
+
+## Topics
+
+### Tutorial and Survey
+
+### Dataset and Benchmark
