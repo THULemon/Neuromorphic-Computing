@@ -10,7 +10,20 @@ Contributions: Wenqiang Zhang
 
 If you have any questions or suggestions, you can rise an issue or contact zhang_wenqiang@outlook.com.
 
-<!-- TOC -->autoauto- [Neuromorphic Computing](#neuromorphic-computing)auto    - [Overview](#overview)auto    - [Device](#device)auto    - [Circuit](#circuit)auto    - [Chip](#chip)auto        - [SNN chip](#snn-chip)auto        - [DNN chip](#dnn-chip)auto    - [Architecture](#architecture)auto    - [Algorithm](#algorithm)auto    - [Topics](#topics)auto        - [Tutorial and Survey](#tutorial-and-survey)auto        - [Dataset and Benchmark](#dataset-and-benchmark)autoauto<!-- /TOC -->
+Table of Contents
+
+- [Neuromorphic Computing](#neuromorphic-computing)
+  - [Overview](#overview)
+  - [Device](#device)
+  - [Circuit](#circuit)
+  - [Chip](#chip)
+    - [SNN chip](#snn-chip)
+    - [DNN chip](#dnn-chip)
+  - [Architecture](#architecture)
+  - [Algorithm](#algorithm)
+  - [Topics](#topics)
+    - [Tutorial and Survey](#tutorial-and-survey)
+    - [Dataset and Benchmark](#dataset-and-benchmark)
 
 ## Overview
 
