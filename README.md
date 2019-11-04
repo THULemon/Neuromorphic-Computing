@@ -15,7 +15,11 @@ Table of Contents
 - [Neuromorphic Computing](#neuromorphic-computing)
   - [Overview](#overview)
   - [Device](#device)
-  - [Circuit](#circuit)
+    - [Different devices](#different-devices)
+    - [Different applications](#different-applications)
+    - [Device characterization](#device-characterization)
+    - [Device modeling](#device-modeling)
+  - [Demo](#demo)
   - [Chip](#chip)
     - [SNN chip](#snn-chip)
     - [DNN chip](#dnn-chip)
@@ -29,7 +33,15 @@ Table of Contents
 
 ## Device
 
-## Circuit
+### Different devices
+
+### Different applications
+
+### Device characterization
+
+### Device modeling
+
+## Demo
 
 ## Chip
 
