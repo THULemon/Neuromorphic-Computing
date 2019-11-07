@@ -4,9 +4,9 @@ Many works towards **Neurmorphic Computing** have published in devices, circuits
 
 This project is started by Tsinghua's [LEMON](http://stor.ime.tsinghua.edu.cn) Group.
 
-Advisors: Huqiang Wu, Gao Bin, Jianshi Tang, He Qian
+Advisors: Huqiang Wu, Bin Gao, Jianshi Tang, He Qian
 
-Contributions: Wenqiang Zhang
+Contributors: Wenqiang Zhang, Wenbin Zhang, Xin Mu, Yijun Li, Songtao Wei, Qi Qin
 
 If you have any questions or suggestions, you can rise an issue or contact zhang_wenqiang@outlook.com.
 
@@ -19,7 +19,7 @@ Table of Contents
     - [Different applications](#different-applications)
     - [Device characterization](#device-characterization)
     - [Device modeling](#device-modeling)
-  - [Demo](#demo)
+  - [Demonstration](#demonstration)
   - [Chip](#chip)
     - [SNN chip](#snn-chip)
     - [DNN chip](#dnn-chip)
@@ -41,17 +41,17 @@ Table of Contents
 
 ### Device modeling
 
-## Demo
+## Demonstration
 
 ## Chip
 
 ### SNN chip
 
-[IBM's TrueNorth](https://doi.org/10.1126/science.1254642):
+1. IBM's TrueNorth: [A million spiking-neuron integrated circuit with a scalable communication network and interface](https://doi.org/10.1126/science.1254642), Science, 2014
 
-[Intel's Loihi](https://doi.org/10.1109/MM.2018.112130359):
+2. [Intel's Loihi](https://doi.org/10.1109/MM.2018.112130359):
 
-[Tsinghua's Tianjic](https://doi.org/10.1038/s41586-019-1424-8):
+3. [Tsinghua's Tianjic](https://doi.org/10.1038/s41586-019-1424-8):
 
 ### DNN chip
 
