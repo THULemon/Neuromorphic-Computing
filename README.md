@@ -10,28 +10,28 @@ This project is started by Tsinghua's [LEMON](http://stor.ime.tsinghua.edu.cn) G
 
 If you have any questions or suggestions, you can rise an issue or contact zhang_wenqiang@outlook.com.
 
-Table of Contents
+**Table of Contents**:
 
 - [Neuromorphic Computing](#neuromorphic-computing)
   - [Overview](#overview)
-  - [Device](#device)
+  - [Devices](#devices)
     - [Different devices](#different-devices)
     - [Different applications](#different-applications)
     - [Device characterization](#device-characterization)
     - [Device modeling](#device-modeling)
-  - [Demonstration](#demonstration)
-  - [Chip](#chip)
-    - [SNN chip](#snn-chip)
-    - [DNN chip](#dnn-chip)
-  - [Architecture](#architecture)
-  - [Algorithm](#algorithm)
+  - [Demonstrations](#demonstrations)
+  - [Chips](#chips)
+    - [SNN chips](#snn-chips)
+    - [DNN chips](#dnn-chips)
+  - [Architectures](#architectures)
+  - [Algorithms](#algorithms)
   - [Topics](#topics)
     - [Tutorial and Survey](#tutorial-and-survey)
     - [Dataset and Benchmark](#dataset-and-benchmark)
 
 ## Overview
 
-## Device
+## Devices
 
 ### Different devices
 
@@ -41,23 +41,21 @@ Table of Contents
 
 ### Device modeling
 
-## Demonstration
+## Demonstrations
 
-## Chip
+## Chips
 
-### SNN chip
+### SNN chips
 
-1. IBM's TrueNorth: [A million spiking-neuron integrated circuit with a scalable communication network and interface](https://doi.org/10.1126/science.1254642), Science, 2014
+1. IBM's TrueNorth: [A million spiking-neuron integrated circuit with a scalable communication network and interface](https://doi.org/10.1126/science.1254642), *Science*, 2014.
+2. Intel's Loihi: [Loihi: A Neuromorphic Manycore Processor with On-Chip Learning](https://doi.org/10.1109/MM.2018.112130359), *IEEE Micro*, 2018.
+3. Tsinghua's Tianjic: [Towards artificial general intelligence with hybrid Tianjic chip architecture](https://doi.org/10.1038/s41586-019-1424-8), *Nature*, 2019.
 
-2. [Intel's Loihi](https://doi.org/10.1109/MM.2018.112130359):
+### DNN chips
 
-3. [Tsinghua's Tianjic](https://doi.org/10.1038/s41586-019-1424-8):
+## Architectures
 
-### DNN chip
-
-## Architecture
-
-## Algorithm
+## Algorithms
 
 ## Topics
 
