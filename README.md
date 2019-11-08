@@ -8,7 +8,7 @@ This project is started by Tsinghua's [LEMON](http://stor.ime.tsinghua.edu.cn) G
 
 **Contributors**: Wenqiang Zhang, Wenbin Zhang, Xin Mu, Yijun Li, Songtao Wei, Qi Qin
 
-If you have any questions or suggestions, you can rise an issue or contact zhang_wenqiang@outlook.com.
+If you have any technical questions or suggestions, pleasue rise an issue or contact with Wenqiang Zhang (zhang_wenqiang@outlook.com).
 
 **Table of Contents**:
 
@@ -61,8 +61,19 @@ If you have any questions or suggestions, you can rise an issue or contact zhang
 
 ### Tutorial and Survey
 
+**Reviews**:
+
+1. [Memristive devices for computing](https://doi.org/10.1038/NNANO.2012.240), *Nature Nanotechnology*, 2012.
+2. [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/abs/1705.06963), *Arxiv*, 2017
+3. [In-memory computing with resistive switching devices](https://doi.org/10.1038/s41928-018-0092-2), *Nature Electronics*, 2018.
+4. [Large-Scale Neuromorphic Spiking Array Processors: A Quest to Mimic the Brain](https://doi.org/10.3389/fnins.2018.00891), *Frontiers in Neuroscience*, 2018.
+5. [Memristive crossbar arrays for brain-inspired computing](https://doi.org/10.1038/s41563-019-0291-x), *Nature Materials*, 2019.
+
 ### Dataset and Benchmark
 
 1. [MNIST](http://yann.lecun.com/exdb/mnist): The MNIST database of handwritten digits has a training set of 60,000 examples, and a test set of 10,000 examples.
-2. [CIFAR](http://www.cs.toronto.edu/~kriz/cifar.html): The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. The CIFAR-100 dataset dataset is just like the CIFAR-10, except it has 100 classes containing 600 images each. There are 500 training images and 100 testing images per class.
-3. [ImageNet](http://www.image-net.org/): ImageNet is an image database organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images.
+2. [MNIST-DVS](http://www2.imse-cnm.csic.es/caviar/MNISTDVS.html): The MNIST-DVS database consists of a set of 30,000 DVS recordings of different handwritten digits. A total of 10,000 original 28x28 pixel handwritten digit images from MNIST were upscaled using smoothing interpolation algorithms to three different scales. Each upscaled digit was then displayed on an LCD monitor with slow motion and a 128x128 pixel DVS (Dynamic Vision Sensor) was used to record the moving digits.
+3. [SVHN](http://ufldl.stanford.edu/housenumbers/): SVHN is a real-world image dataset for developing machine learning and object recognition algorithms with minimal requirement on data preprocessing and formatting.
+4. [CIFAR](http://www.cs.toronto.edu/~kriz/cifar.html): The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. The CIFAR-100 dataset dataset is just like the CIFAR-10, except it has 100 classes containing 600 images each. There are 500 training images and 100 testing images per class.
+5. [ImageNet](http://www.image-net.org/): ImageNet is an image database organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images.
+6. [Microsoft's COCO](http://cocodataset.org/#overview): COCO is a large-scale object detection, segmentation, and captioning dataset.
