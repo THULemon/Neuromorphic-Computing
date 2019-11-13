@@ -8,7 +8,7 @@ This project is started by Tsinghua's [LEMON](http://stor.ime.tsinghua.edu.cn) G
 
 **Contributors**: Wenqiang Zhang, Wenbin Zhang, Xin Mu, Yijun Li, Songtao Wei, Qi Qin
 
-If you have any technical questions or suggestions, pleasue rise an issue or contact with Wenqiang Zhang (zhang_wenqiang@outlook.com).
+If you have any technical questions or comments, pleasue rise an issue or contact with Wenqiang Zhang (zhang_wenqiang@outlook.com).
 
 **Table of Contents**:
 
@@ -64,10 +64,14 @@ If you have any technical questions or suggestions, pleasue rise an issue or con
 **Reviews**:
 
 1. [Memristive devices for computing](https://doi.org/10.1038/NNANO.2012.240), *Nature Nanotechnology*, 2012.
-2. [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/abs/1705.06963), *Arxiv*, 2017
-3. [In-memory computing with resistive switching devices](https://doi.org/10.1038/s41928-018-0092-2), *Nature Electronics*, 2018.
-4. [Large-Scale Neuromorphic Spiking Array Processors: A Quest to Mimic the Brain](https://doi.org/10.3389/fnins.2018.00891), *Frontiers in Neuroscience*, 2018.
-5. [Memristive crossbar arrays for brain-inspired computing](https://doi.org/10.1038/s41563-019-0291-x), *Nature Materials*, 2019.
+2. [Neuromorphic computing using non-volatile memory](https://doi.org/10.1080/23746149.2016.1259585), *Advances in Physics: X*, 2017.
+3. [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/abs/1705.06963), *Arxiv*, 2017
+4. [In-memory computing with resistive switching devices](https://doi.org/10.1038/s41928-018-0092-2), *Nature Electronics*, 2018.
+5. [Organic electronics for neuromorphic computing](https://doi.org/10.1038/s41928-018-0103-3), *Nature Electronics*, 2018.
+6. [Neuro-inspired Computing With Emerging Nonvolatile Memory](https://doi.org/10.1109/JPROC.2018.2790840), *Proceeding of IEEE*, 2018.
+7. [Large-Scale Neuromorphic Spiking Array Processors: A Quest to Mimic the Brain](https://doi.org/10.3389/fnins.2018.00891), *Frontiers in Neuroscience*, 2018.
+8. [Memristive crossbar arrays for brain-inspired computing](https://doi.org/10.1038/s41563-019-0291-x), *Nature Materials*, 2019.
+9. [Bridging Biological and Artificial Neural Networks with Emerging Neuromorphic Devices: Fundamentals, Progress, and Challenges](https://doi.org/10.1002/adma.201902761), *Advanced Materials*, 2019.
 
 ### Dataset and Benchmark
 
