@@ -61,6 +61,14 @@ If you have any technical questions or comments, pleasue rise an issue or contac
 
 ### Tutorial and Survey
 
+**Lectures**:
+
+1. The Chua Lectures: From Memristors and Cellular Nonlinear Networks to the Edge of Chaos. Links: [youku](https://v.youku.com/v_show/id_XMTg1MjQwMzg3Ng==.html?spm=a2h0j.11185381.listitem_page1.5!12~A), [youtube](https://www.youtube.com/playlist?list=PLtS6YX0YOX4eAQ6IrOZSta3xjRXzpcXyi)
+
+**Books**:
+
+1. [Principles of Neural Design](https://mitpress.mit.edu/books/principles-neural-design), By Peter Sterling and Simon Laughlin.
+
 **Reviews**:
 
 1. [Memristive devices for computing](https://doi.org/10.1038/NNANO.2012.240), *Nature Nanotechnology*, 2012.
