@@ -76,18 +76,18 @@ If you have any technical questions or comments, pleasue rise an issue or contac
 
 **Reviews**:
 
-1. [Phase Change Memory](https://doi.org/10.1109/JPROC.2010.2070050), *Proceeding of IEEE*, 2010. <font color="#dd0000">[Device]</font><br />
-2. [Neuromorphic silicon neuron circuits](https://doi.org/10.3389/fnins.2011.00073), Frontiers in Neuroscience, 2011. <font color="#00dd00">[Circuit]</font><br />
-3. [Metal–Oxide RRAM](https://doi.org/10.1109/JPROC.2012.2190369), *Proceeding of IEEE*, 2012. <font color="#dd0000">[Device]</font><br />
-4. [Memristive devices for computing](https://doi.org/10.1038/NNANO.2012.240), *Nature Nanotechnology*, 2012. <font color="#dd0000">[Device]</font><br />
-5. [Neuromorphic computing using non-volatile memory](https://doi.org/10.1080/23746149.2016.1259585), *Advances in Physics: X*, 2017. <font color="#dd0000">[Device]</font><br />
-6. [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/abs/1705.06963), *Arxiv*, 2017. <font color="#00dddd">[Chip]</font><br />
-7. [In-memory computing with resistive switching devices](https://doi.org/10.1038/s41928-018-0092-2), *Nature Electronics*, 2018. <font color="#dd0000">[Device]</font><br />
-8. [Organic electronics for neuromorphic computing](https://doi.org/10.1038/s41928-018-0103-3), *Nature Electronics*, 2018. <font color="#dd0000">[Device]</font><br />
-9. [Neuro-inspired Computing With Emerging Nonvolatile Memory](https://doi.org/10.1109/JPROC.2018.2790840), *Proceeding of IEEE*, 2018. <font color="#dd0000">[Device]</font><br />
-10. [Large-Scale Neuromorphic Spiking Array Processors: A Quest to Mimic the Brain](https://doi.org/10.3389/fnins.2018.00891), *Frontiers in Neuroscience*, 2018. <font color="#00dddd">[Chip]</font><br />
-11. [Memristive crossbar arrays for brain-inspired computing](https://doi.org/10.1038/s41563-019-0291-x), *Nature Materials*, 2019. <font color="#dd00dd">[Chip]</font><br />
-12. [Bridging Biological and Artificial Neural Networks with Emerging Neuromorphic Devices: Fundamentals, Progress, and Challenges](https://doi.org/10.1002/adma.201902761), *Advanced Materials*, 2019. <font color="#dd0000">[Device]</font><br />
+1. [Phase Change Memory](https://doi.org/10.1109/JPROC.2010.2070050), *Proceeding of IEEE*, 2010. [Device]
+2. [Neuromorphic silicon neuron circuits](https://doi.org/10.3389/fnins.2011.00073), Frontiers in Neuroscience, 2011. [Circuit]
+3. [Metal–Oxide RRAM](https://doi.org/10.1109/JPROC.2012.2190369), *Proceeding of IEEE*, 2012. [Device]
+4. [Memristive devices for computing](https://doi.org/10.1038/NNANO.2012.240), *Nature Nanotechnology*, 2012. [Device]
+5. [Neuromorphic computing using non-volatile memory](https://doi.org/10.1080/23746149.2016.1259585), *Advances in Physics: X*, 2017. [Device]
+6. [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/abs/1705.06963), *Arxiv*, 2017. [Chip]
+7. [In-memory computing with resistive switching devices](https://doi.org/10.1038/s41928-018-0092-2), *Nature Electronics*, 2018. [Device]
+8. [Organic electronics for neuromorphic computing](https://doi.org/10.1038/s41928-018-0103-3), *Nature Electronics*, 2018. [Device]
+9. [Neuro-inspired Computing With Emerging Nonvolatile Memory](https://doi.org/10.1109/JPROC.2018.2790840), *Proceeding of IEEE*, 2018. [Device]
+10. [Large-Scale Neuromorphic Spiking Array Processors: A Quest to Mimic the Brain](https://doi.org/10.3389/fnins.2018.00891), *Frontiers in Neuroscience*, 2018. [Chip]
+11. [Memristive crossbar arrays for brain-inspired computing](https://doi.org/10.1038/s41563-019-0291-x), *Nature Materials*, 2019. [Array]
+12. [Bridging Biological and Artificial Neural Networks with Emerging Neuromorphic Devices: Fundamentals, Progress, and Challenges](https://doi.org/10.1002/adma.201902761), *Advanced Materials*, 2019. [Device]
 
 ### Dataset and Benchmark
 
