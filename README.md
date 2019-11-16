@@ -20,6 +20,8 @@ If you have any technical questions or comments, please rise an issue or contact
     - [Device characterization and modeling](#device-characterization-and-modeling)
   - [Array and demonstrations](#array-and-demonstrations)
   - [Chips](#chips)
+    - [SNN Chips](#snn-chips)
+    - [DNN Chips](#dnn-chips)
   - [Architectures](#architectures)
   - [Algorithms](#algorithms)
   - [Topics](#topics)
@@ -105,9 +107,26 @@ Neuromorphic computing with novel memory devices has attracted considerable atte
 
 ## Chips
 
-1. IBM's TrueNorth: [A million spiking-neuron integrated circuit with a scalable communication network and interface](https://doi.org/10.1126/science.1254642), *Science*, 2014.
-2. Intel's Loihi: [Loihi: A Neuromorphic Manycore Processor with On-Chip Learning](https://doi.org/10.1109/MM.2018.112130359), *IEEE Micro*, 2018.
-3. Tsinghua's Tianjic: [Towards artificial general intelligence with hybrid Tianjic chip architecture](https://doi.org/10.1038/s41586-019-1424-8), *Nature*, 2019.
+### SNN Chips
+1. [Neurogrid: emulating a million neurons in the cortex](https://doi.org/10.1109/IEMBS.2006.260925), *IEMBS*, 2006. (Stanford University)
+2. [A Wafer-Scale Neuromorphic Hardware System for Large-Scale Neural Modeling](https://doi.org/10.1109/ISCAS.2010.5536970), *ISCAS*, 2010. (University of Heidelberg)
+3. [The SpiNNaker Project](https://doi.org/10.1109/JPROC.2014.2304638), *Proceedings of the IEEE*, 2014. (University of Manchester)
+4. [Neurogrid: A Mixed-Analog-Digital Multichip System for Large-Scale Neural Simulations](https://doi.org/10.1109/JPROC.2014.2313565), *Proceedings of the IEEE*, 2014. (Stanford University)
+5. [A 65k-neuron 73-Mevents/s 22-pJ/event asynchronous micro-pipelined integrate-and-fire array transceiver](https://doi.org/10.1109/BioCAS.2014.6981816), *BioCAS*, 2014. (University of California San Diego)
+6. [A million spiking-neuron integrated circuit with a scalable communication network and interface](https://doi.org/10.1126/science.1254642), *Science*, 2014. (IBM)
+7. [A reconfigurable on-line learning spiking neuromorphic processor comprising 256 neurons and 128K synapses](https://doi.org/10.3389/fnins.2015.00141), *Frontiers in Neuroscience*, 2015. (University of Zurich and ETH Zurich)
+8. [Loihi: A Neuromorphic Manycore Processor with On-Chip Learning](https://doi.org/10.1109/MM.2018.112130359), *IEEE Micro*, 2018. (Intel)
+9. [Towards artificial general intelligence with hybrid Tianjic chip architecture](https://doi.org/10.1038/s41586-019-1424-8), *Nature*, 2019. (Tsinghua University)
+//[](https://doi.org/), *Science*, 2014. ()
+
+### DNN Chips
+
+1. [A 65nm 4Kb algorithm-dependent computing-in-memory SRAM unit-macro with 2.3ns and 55.8TOPS/W fully parallel product-sum operation for binary DNN edge processors](https://doi.org/10.1109/ISSCC.2018.8310401), *ISSCC*, 2018. (National Tsing Hua University)
+2. [A 4M Synapses integrated Analog ReRAM based 66.5 TOPS/W Neural-Network Processor with Cell Current Controlled Writing and Flexible Network Architecture ](https://doi.org/), *VLSI*, 2018. (Panasonic)
+3. [A 65nm 1Mb Nonvolatile Computing-in-Memory ReRAM Macro with sub-16ns Multiply-and-Accumulate for Binary DNN AI Edge Processor](https://doi.org/10.1109/ISSCC.2018.8310400), *ISSCC*, 2018. (National Tsing Hua University)
+4. [Brain-inspired computing exploiting carbon nanotube FETs and resistive RAM: Hyperdimensional computing case study ](https://doi.org/10.1109/ISSCC.2018.8310399 ), *ISSCC*, 2018. (Stanford University)
+5. [A 1Mb Multibit ReRAM Computing-In-Memory Macro with 14.6ns Parallel MAC Computing Time for CNN Based AI Edge Processors ](https://doi.org/10.1109/ISSCC.2019.8662395), *ISSCC*, 2018. (National Tsing Hua University)
+6. [C3SRAM: In-Memory-Computing SRAM Macro Based on Capacitive-Coupling Computing ](https://doi.org/10.1109/LSSC.2019.2934831 ), * IEEE Solid-State Circuits Letters*, 2019. (Columbia University)
 
 ## Architectures
 
