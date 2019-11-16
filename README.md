@@ -52,7 +52,7 @@ Neuromorphic computing with novel memory devices has attracted considerable atte
 11. [A non-volatile organic electrochemical device as a low-voltage artificial synapse for neuromorphic computing](https://doi.org/)10.1038/nmat4856, *Nature Materials*, 2016.
 12. [Chaotic dynamics in nanoscale NbO2 Mott memristors for analogue computing](https://doi.org/10.1038/nature23307), *Nature*, 2017.
 13. [Brain-Inspired Photonic Neuromorphic Devices using Photodynamic Amorphous Oxide Semiconductors and their Persistent Photoconductivity](https://doi.org/10.1002/adma.201700951), *Advanced materials*, 2017.
-14. ["Neuromorphic computing with nanoscale spintronic oscillators"](https://doi.org/10.1038/nature23011), *Nature*, 2017.
+14. [Neuromorphic computing with nanoscale spintronic oscillators](https://doi.org/10.1038/nature23011), *Nature*, 2017.
 15. [Flexible three-dimensional artificial synapse networks with correlated learning and trainable memory capability](https://doi.org/), *Nature communications*, 2017.
 16. [A High-On/Off-Ratio Floating-Gate Memristor Array on a Flexible Substrate via CVD-Grown Large-Area 2D Layer Stacking](https://doi.org/10.1002/adma.201703363), *Advanced materials*, 2008.
 17. [ECRAM as Scalable Synaptic Cell for High-Speed, Low-Power Neuromorphic Computing](https://doi.org/10.1109/IEDM.2018.8614551), *IEDM*, 2018.
@@ -60,12 +60,13 @@ Neuromorphic computing with novel memory devices has attracted considerable atte
 19. [Low-Power, Electrochemically Tunable Graphene Synapses for Neuromorphic Computing](https://doi.org/10.1002/adma.201802353), *Advanced Materials*, 2018.
 20. [Multi-terminal memtransistors from polycrystalline monolayer molybdenum disulfide](https://doi.org/10.1038/nature25747), *Nature*, 2018.
 21. [Synaptic Barristor Based on Phase-Engineered 2D Heterostructures](https://doi.org/10.1002/adma.201801447), *Nature Materials*, 2018.
-22. ["First Demonstration of a Logic-Process Compatible Junctionless Ferroelectric FinFET Synapse for Neuromorphic Applications"](https://doi.org/10.1109/LED.2018.2852698), *EDL*, 2018.
+22. [First Demonstration of a Logic-Process Compatible Junctionless Ferroelectric FinFET Synapse for Neuromorphic Applications](https://doi.org/10.1109/LED.2018.2852698), *EDL*, 2018.
 23. [SiGe epitaxial memory for neuromorphic computing with reproducible high performance based on engineered dislocations](https://doi.org/10.1038/s41563-017-0001-5), *Nature Materials*, 2018.
 24. [All-Solid-State Synaptic Transistor with Ultralow Conductance for Neuromorphic Computing](https://doi.org/10.1002/adfm.201804170), *Advanced functional materials*, 2018.
 25. [Ultra-low Power Hf0.5Zr0.5O2 based Ferroelectric Tunnel Junction Synapses for Hardware Neural Network Applications](https://doi.org/10.1039/c8nr04734k), *Nanoscale*, 2018.
 26. [Memristor crossbar arrays with 6-nm half-pitch and 2-nm critical dimension](https://doi.org/10.1038/s41565-018-0302-0), *Nature Nanotechnology*, 2019.
 27. [Parallel programming of an ionic floating-gate memory array for scalable neuromorphic computing](https://doi.org/10.1126/science.aaw5581), *Science*, 2019.
+28. [Phase-change heterostructure enables ultralow noise and drift for memory operation](https://doi.org/10.1126/science.aay0291), *Science*, 2019.
 
 ### Device characterization and modeling
 
@@ -77,7 +78,7 @@ Neuromorphic computing with novel memory devices has attracted considerable atte
 6. [Direct Observations of Nanofilament Evolution in Switching Processes in HfO2-Based Resistive Random Access Memory by In Situ TEM Studies Chao](https://doi.org/10.1002/adma.201602976), *Nature Materials*, 2017.
 7. [Nanometer-Scale Phase Transformation Determines Threshold and Memory Switching Mechanism](https://doi.org/10.1002/adma.201701752), *Advanced materials*, 2017.
 8. [Dual functionality of threshold and multilevel resistive switching characteristics in nanoscale HfO2-based RRAM devices for artificial neuron and synapse elements](https://doi.org/10.1016/j.mee.2017.09.001), *Microelectronic Engineering*, 2017.
-9. ["Ionic modulation and ionic coupling effects in MoS2 devices for neuromorphic computing"](https://doi.org/10.1038/s41563-018-0248-5), *Nature Materials*, 2019.
+9. [Ionic modulation and ionic coupling effects in MoS2 devices for neuromorphic computing](https://doi.org/10.1038/s41563-018-0248-5), *Nature Materials*, 2019.
 
 ## Array and demonstrations
 
