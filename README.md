@@ -8,21 +8,18 @@ This project is started by Tsinghua's [LEMON](http://stor.ime.tsinghua.edu.cn) G
 
 **Contributors**: Wenqiang Zhang, Wenbin Zhang, Xin Mu, Yijun Li, Songtao Wei, Qi Qin
 
-If you have any technical questions or comments, pleasue rise an issue or contact with Wenqiang Zhang (zhang_wenqiang@outlook.com).
+If you have any technical questions or comments, please rise an issue or contact with Wenqiang Zhang (zhang_wenqiang@outlook.com).
 
 *****************
 
 **Table of Contents**:
 
 - [Neuromorphic Computing](#neuromorphic-computing)
-  - [Overview](#overview)
   - [Devices](#devices)
     - [Emerging devices and applications](#emerging-devices-and-applications)
     - [Device characterization and modeling](#device-characterization-and-modeling)
   - [Array and demonstrations](#array-and-demonstrations)
   - [Chips](#chips)
-    - [SNN chips](#snn-chips)
-    - [DNN chips](#dnn-chips)
   - [Architectures](#architectures)
   - [Algorithms](#algorithms)
   - [Topics](#topics)
@@ -30,8 +27,6 @@ If you have any technical questions or comments, pleasue rise an issue or contac
     - [Dataset and Benchmark](#dataset-and-benchmark)
 
 *****************
-
-## Overview
 
 ## Devices
 
@@ -84,38 +79,35 @@ Neuromorphic computing with novel memory devices has attracted considerable atte
 
 1. [Pattern classiﬁcation by memristive crossbar circuits using ex situ and in situ training](https://doi.org/10.1038/ncomms3072), *Nature Communication*, 2013. (University of California, Santa Barbara)
 2. [Neuromorphic Hardware System for Visual Pattern Recognition With Memristor Array and CMOS Neuron](https://doi.org/10.1109/TIE.2014.2356439), *IEEE Transactions on Industrial Electronics*, 2014. (Gwangju Institute of Science and Technology)
-3. [Brain-like associative learning using a nanoscale non-volatile phase change synaptic device array](https://doi.org/10.3389/fnins.2014.00205), *Nature* ,2015. (Stanford University)
+3. [Brain-like associative learning using a nanoscale non-volatile phase change synaptic device array](https://doi.org/10.3389/fnins.2014.00205), *Frontiers in Neuroscience* ,2015. (Stanford University)
 4. [Training and operation of an integrated neuromorphic network based on metal-oxide memristors](https://doi.org/10.3389/fnins.2014.00205), *Nature*, 2015. (University of California, Santa Barbara)
 5. [Data Clustering using Memristor Networks](https://doi.org/10.1038/srep10492), *Scientific report*, 2015. (University of Michigan)
-6. [Unsupervised learning in probabilistic neural networks with multi-state metal-oxide memristive synapses](https://doi.org/10.1038/ncomms12611), *Nature Communication*, 2016. (University of Southampton)
-7. [Sparse coding with memristor networks](https://doi.org/10.1038/NNANO.2017.83), *Nature Nanotechnology*, 2017. (University of Michigan)
-8. [Temporal correlation detection using computational phase-change memory](https://doi.org/10.1038/s41467-017-01481-9), *Nature Communication*, 2017. (IBM)
-9. [Reservoir computing using dynamic memristors for temporal information processing](https://doi.org/10.1038/s41467-017-02337-y), *Nature Communication*, 2017. (University of Michigan)
-10. [Face classification using electronic synapses](https://doi.org/10.1038/ncomms15199), *Nature Communication*, 2017. (Tsinghua University)
-11. [Experimental Demonstration of Feature Extraction and Dimensionality Reduction Using Memristor Networks](https://doi.org/10.1021/acs.nanolett.7b00552), *Nano Letters*, 2017. (The University of Michigan)
-12. [K‐means Data Clustering with Memristor Networks](https://doi.org/10.1021/acs.nanolett.8b01526), *Nano Letters*, 2017. (The University of Michigan)
-13. [Equivalent-accuracy accelerated neural- network training using analogue memory](https://doi.org/10.1038/s41586-018-0180-5), *Nature*, 2018. (IBM)
-14. [Implementation of multilayer perceptron network with highly uniform passive memristive crossbar circuits](https://doi.org/10.1038/s41467-018-04482-4), *Nature Communication*, 2018. (University of California, Santa Barbara)
-15. [Efficient and self-adaptive in-situ learning in multilayer memristor neural networks](https://doi.org/10.1038/s41467-018-04482-2), *Nature Communication*, 2018. (University of Massachusetts)
-16. [Spike-timing-dependent plasticity learning of coincidence detection with passively integrated memristive circuits](https://doi.org/10.1038/s41467-018-07757-y), *Nature Communication*, 2018. (University of California, Santa Barbara)
-17. [Analogue signal and image processing with large memristor crossbar](https://doi.org/10.1038/s41928-017-0002-z), *Nature Electronics*, 2018. (University of Massachusetts)
-18. [Fully memristive neural networks for pattern classification with unsupervised learning](https://doi.org/10.1038/s41928-018-0023-2), *Nature Electronics*, 2018. (University of Massachusetts)
-19. [Demonstration of Generative Adversarial Network by Intrinsic Random Noises of Analog RRAM Devices](https://doi.org/10.1109/IEDM.2018.8614483), *IEDM*, 2018. (Tsinghua University)
-20. [Reinforcement learning with analogue  memristor arrays](https://doi.org/10.1038/s41928-019-0221-6), *Nature Electronics*, 2019. (University of Massachusetts)
-21. [Temporal data classification and forecasting using a memristor-based reservoir computing system](https://doi.org/10.1038/s41928-019-0313-3), *Nature Electronics*, 2019. (University of Michigan)
-22. [Long short-term memory networks in memristor crossbar arrays](https://doi.org/10.1038/s42256-018-0001-4), *Nature Machine Intelligence*, 2019. (University of Massachusetts)
-23. [In situ training of feed-forward and recurrent convolutional memristor networks](https://doi.org/10.1038/s42256-019-0089-1), *Nature Machine Intelligence*, 2019. (University of Massachusetts)
-24. [Associative Memory for Image Recovery with a High‐Performance Memristor Array ](https://doi.org/10.1002/adfm.201970209 ), *Advanced Functional Materials*, 2019. (Tsinghua University)
+6. [Training a probabilistic graphical model with resistive switching electronic synapses](https://doi.org/10.1109/TED.2016.2616483), *TED*, 2016. (Stanford University)
+7. [Unsupervised learning in probabilistic neural networks with multi-state metal-oxide memristive synapses](https://doi.org/10.1038/ncomms12611), *Nature Communication*, 2016. (University of Southampton)
+8. [Sparse coding with memristor networks](https://doi.org/10.1038/NNANO.2017.83), *Nature Nanotechnology*, 2017. (University of Michigan)
+9. [Temporal correlation detection using computational phase-change memory](https://doi.org/10.1038/s41467-017-01481-9), *Nature Communication*, 2017. (IBM)
+10. [Reservoir computing using dynamic memristors for temporal information processing](https://doi.org/10.1038/s41467-017-02337-y), *Nature Communication*, 2017. (University of Michigan)
+11. [Face classification using electronic synapses](https://doi.org/10.1038/ncomms15199), *Nature Communication*, 2017. (Tsinghua University)
+12. [Experimental Demonstration of Feature Extraction and Dimensionality Reduction Using Memristor Networks](https://doi.org/10.1021/acs.nanolett.7b00552), *Nano Letters*, 2017. (University of Michigan)
+13. [K‐means Data Clustering with Memristor Networks](https://doi.org/10.1021/acs.nanolett.8b01526), *Nano Letters*, 2017. (University of Michigan)
+14. [Equivalent-accuracy accelerated neural- network training using analogue memory](https://doi.org/10.1038/s41586-018-0180-5), *Nature*, 2018. (IBM)
+15. [Implementation of multilayer perceptron network with highly uniform passive memristive crossbar circuits](https://doi.org/10.1038/s41467-018-04482-4), *Nature Communication*, 2018. (University of California, Santa Barbara)
+16. [Efficient and self-adaptive in-situ learning in multilayer memristor neural networks](https://doi.org/10.1038/s41467-018-04482-2), *Nature Communication*, 2018. (University of Massachusetts)
+17. [Spike-timing-dependent plasticity learning of coincidence detection with passively integrated memristive circuits](https://doi.org/10.1038/s41467-018-07757-y), *Nature Communication*, 2018. (University of California, Santa Barbara)
+18. [Analogue signal and image processing with large memristor crossbar](https://doi.org/10.1038/s41928-017-0002-z), *Nature Electronics*, 2018. (University of Massachusetts)
+19. [Fully memristive neural networks for pattern classification with unsupervised learning](https://doi.org/10.1038/s41928-018-0023-2), *Nature Electronics*, 2018. (University of Massachusetts)
+20. [Demonstration of Generative Adversarial Network by Intrinsic Random Noises of Analog RRAM Devices](https://doi.org/10.1109/IEDM.2018.8614483), *IEDM*, 2018. (Tsinghua University)
+21. [Reinforcement learning with analogue  memristor arrays](https://doi.org/10.1038/s41928-019-0221-6), *Nature Electronics*, 2019. (University of Massachusetts)
+22. [Temporal data classification and forecasting using a memristor-based reservoir computing system](https://doi.org/10.1038/s41928-019-0313-3), *Nature Electronics*, 2019. (University of Michigan)
+23. [Long short-term memory networks in memristor crossbar arrays](https://doi.org/10.1038/s42256-018-0001-4), *Nature Machine Intelligence*, 2019. (University of Massachusetts)
+24. [In situ training of feed-forward and recurrent convolutional memristor networks](https://doi.org/10.1038/s42256-019-0089-1), *Nature Machine Intelligence*, 2019. (University of Massachusetts)
+25. [Associative Memory for Image Recovery with a High‐Performance Memristor Array ](https://doi.org/10.1002/adfm.201970209 ), *Advanced Functional Materials*, 2019. (Tsinghua University)
 
 ## Chips
-
-### SNN chips
 
 1. IBM's TrueNorth: [A million spiking-neuron integrated circuit with a scalable communication network and interface](https://doi.org/10.1126/science.1254642), *Science*, 2014.
 2. Intel's Loihi: [Loihi: A Neuromorphic Manycore Processor with On-Chip Learning](https://doi.org/10.1109/MM.2018.112130359), *IEEE Micro*, 2018.
 3. Tsinghua's Tianjic: [Towards artificial general intelligence with hybrid Tianjic chip architecture](https://doi.org/10.1038/s41586-019-1424-8), *Nature*, 2019.
-
-### DNN chips
 
 ## Architectures
 
@@ -138,7 +130,7 @@ Neuromorphic computing with novel memory devices has attracted considerable atte
 
 1. [Memristive switching mechanism for metal/oxide/metal nanodevices](https://doi.org/10.1038/nnano.2008.160), *Nature Nanotechnology*. 2008. [Device]
 2. [Phase Change Memory](https://doi.org/10.1109/JPROC.2010.2070050), *Proceeding of IEEE*, 2010. [Device]
-3. [Neuromorphic silicon neuron circuits](https://doi.org/10.3389/fnins.2011.00073), Frontiers in Neuroscience, 2011. [Circuit]
+3. [Neuromorphic silicon neuron circuits](https://doi.org/10.3389/fnins.2011.00073), *Frontiers in Neuroscience*, 2011. [Circuit]
 4. [Metal–Oxide RRAM](https://doi.org/10.1109/JPROC.2012.2190369), *Proceeding of IEEE*, 2012. [Device]
 5. [Memristive devices for computing](https://doi.org/10.1038/NNANO.2012.240), *Nature Nanotechnology*, 2012. [Device]
 6. [Neuromorphic computing using non-volatile memory](https://doi.org/10.1080/23746149.2016.1259585), *Advances in Physics: X*, 2017. [Device]
