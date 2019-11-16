@@ -37,11 +37,22 @@ If you have any technical questions or comments, pleasue rise an issue or contac
 
 ## Devices
 
+Neuromorphic computing with novel memory devices has attracted considerable attention. Tremendous efforts have been made to implement artificial neurons and artificial synapses using a variety of emerging devices, such as phase-change memory (PCM), Mott memristor, resistive random-access memory (RRAM), magnetic random-access memory (MRAM), conductive-bridge random-access memory(CBRAM), ferroelectric ﬁeld-effect transistors(FeFET). The neuron-like integrate-and-fire behaviors are usually realized by the threshold switching characteristics of these devices, while the synaptic weight changes in artificial synapses are modulated by means of analog nonvolatile switching onto different levels of resistance (or conductance). Consequently, these emerging devices have attracted significant attention in the past decade as a key enabler of new computing paradigms.
+
 ### Different devices
+
+1. [A non-volatile organic electrochemical device as a low-voltage artificial synapse for neuromorphic computing](https://doi.org/10.1038/nmat4856), *Nature Materials*, 2017. (This paper demonstrates an organic electrochemical device as an artificial synapse for neuromorphic computing, which shows low operation voltage and excellent analog switching behavior.)
+2. [A ferroelectric memristor](https://doi.org/10.1038/nmat3415), *Nature Materials*, 2012. (This paper demonstrates that voltage-controlled domain configurations in ferroelectric tunnel barriers yield memristive behavior with resistance variations exceeding two orders of magnitude and a 10 ns operation speed.)
+3. [A fast, high-endurance and scalable non-volatile memory device made from asymmetric Ta2O5-xTaO2-xbilayer structures](https://doi.org/10.1038/nmat3070), *Nature Materials*, 2011.
+4. [Memristor crossbar arrays with 6-nm half-pitch and 2-nm critical dimension](https://doi.org/10.1038/s41565-018-0302-0), *Nature Nanotechnology*, 2012.(This paper demonstrates memristive crossbar arrays with a 2-nm feature size.)
+5. [A scalable neuristor built with Mott memristors](https://doi.org/10.1038/nnano.2008.160), *Nature Materials*, 2012.(This paper demonstrates a neuristor built using two nanoscale Mott memristors, whicih exhibits the important neural functions of all-or-nothing spiking with signal gain and diverse periodic spiking.)
+6. [The missing memristor found](https://doi.org/10.1038/nature06932), *Nature*, 2012. (This paper presents for the first time a two-terminal electrical device as memristor.)
 
 ### Different applications
 
 ### Device characterization
+
+1. [Observation of conducting filament growth in nanoscale resistive memories](https://doi.org/10.1038/ncomms1737), *Nature Communications*, 2012.
 
 ### Device modeling
 
@@ -76,18 +87,19 @@ If you have any technical questions or comments, pleasue rise an issue or contac
 
 **Reviews**:
 
-1. [Phase Change Memory](https://doi.org/10.1109/JPROC.2010.2070050), *Proceeding of IEEE*, 2010. [Device]
-2. [Neuromorphic silicon neuron circuits](https://doi.org/10.3389/fnins.2011.00073), Frontiers in Neuroscience, 2011. [Circuit]
-3. [Metal–Oxide RRAM](https://doi.org/10.1109/JPROC.2012.2190369), *Proceeding of IEEE*, 2012. [Device]
-4. [Memristive devices for computing](https://doi.org/10.1038/NNANO.2012.240), *Nature Nanotechnology*, 2012. [Device]
-5. [Neuromorphic computing using non-volatile memory](https://doi.org/10.1080/23746149.2016.1259585), *Advances in Physics: X*, 2017. [Device]
-6. [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/abs/1705.06963), *Arxiv*, 2017. [Chip]
-7. [In-memory computing with resistive switching devices](https://doi.org/10.1038/s41928-018-0092-2), *Nature Electronics*, 2018. [Device]
-8. [Organic electronics for neuromorphic computing](https://doi.org/10.1038/s41928-018-0103-3), *Nature Electronics*, 2018. [Device]
-9. [Neuro-inspired Computing With Emerging Nonvolatile Memory](https://doi.org/10.1109/JPROC.2018.2790840), *Proceeding of IEEE*, 2018. [Device]
-10. [Large-Scale Neuromorphic Spiking Array Processors: A Quest to Mimic the Brain](https://doi.org/10.3389/fnins.2018.00891), *Frontiers in Neuroscience*, 2018. [Chip]
-11. [Memristive crossbar arrays for brain-inspired computing](https://doi.org/10.1038/s41563-019-0291-x), *Nature Materials*, 2019. [Array]
-12. [Bridging Biological and Artificial Neural Networks with Emerging Neuromorphic Devices: Fundamentals, Progress, and Challenges](https://doi.org/10.1002/adma.201902761), *Advanced Materials*, 2019. [Device]
+1. [Memristive switching mechanism for metal/oxide/metal nanodevices](https://doi.org/10.1038/nnano.2008.160), *Nature Nanotechnology*. 2008. [Device]
+2. [Phase Change Memory](https://doi.org/10.1109/JPROC.2010.2070050), *Proceeding of IEEE*, 2010. [Device]
+3. [Neuromorphic silicon neuron circuits](https://doi.org/10.3389/fnins.2011.00073), Frontiers in Neuroscience, 2011. [Circuit]
+4. [Metal–Oxide RRAM](https://doi.org/10.1109/JPROC.2012.2190369), *Proceeding of IEEE*, 2012. [Device]
+5. [Memristive devices for computing](https://doi.org/10.1038/NNANO.2012.240), *Nature Nanotechnology*, 2012. [Device]
+6. [Neuromorphic computing using non-volatile memory](https://doi.org/10.1080/23746149.2016.1259585), *Advances in Physics: X*, 2017. [Device]
+7. [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/abs/1705.06963), *Arxiv*, 2017. [Chip]
+8. [In-memory computing with resistive switching devices](https://doi.org/10.1038/s41928-018-0092-2), *Nature Electronics*, 2018. [Device]
+9. [Organic electronics for neuromorphic computing](https://doi.org/10.1038/s41928-018-0103-3), *Nature Electronics*, 2018. [Device]
+10. [Neuro-inspired Computing With Emerging Nonvolatile Memory](https://doi.org/10.1109/JPROC.2018.2790840), *Proceeding of IEEE*, 2018. [Device]
+11. [Large-Scale Neuromorphic Spiking Array Processors: A Quest to Mimic the Brain](https://doi.org/10.3389/fnins.2018.00891), *Frontiers in Neuroscience*, 2018. [Chip]
+12. [Memristive crossbar arrays for brain-inspired computing](https://doi.org/10.1038/s41563-019-0291-x), *Nature Materials*, 2019. [Array]
+13. [Bridging Biological and Artificial Neural Networks with Emerging Neuromorphic Devices: Fundamentals, Progress, and Challenges](https://doi.org/10.1002/adma.201902761), *Advanced Materials*, 2019. [Device]
 
 ### Dataset and Benchmark
 
